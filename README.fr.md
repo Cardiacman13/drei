@@ -11,7 +11,7 @@
 
 ## Fonctionnalités
 
-- **Configuration Interactive**: Le script guide les utilisateurs de manière interactif lors du processus d'installation.
+- **Configuration Interactive**: Le script guide les utilisateurs de manière interactive lors du processus d'installation.
 - **Distribution Supportée**: Supporte Debian, Fedora, Arch Linux, OpenSUSE et leurs équivalents.
 - **Environnement de Conteneurisation**: Utilise `distrobox` pour créer un environnement conteneurisé afin d'installer DaVinci Resolve.
 - **Gestion des Dépendances**: Install automatiquement les dépendances nécessaires en se basant sur la distribution Linux de l'utilisateur.
@@ -22,7 +22,7 @@
 - **GPU NVIDIA**
 - **biGPU (OPTIMUS, iGPU + dGPU, ...)**
 
-- **Les GPU Intel seul ne sont pas supporté par DaVinci Resolve**
+- **Les GPU Intel seul ne sont pas supportés par DaVinci Resolve**
 
 ## Utilisation
 
